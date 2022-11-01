@@ -1,4 +1,4 @@
-<mxfile modified="2022-11-01T07:10:31.619Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="h2GMo1ICjYmqJfxeEj0g" version="20.5.1" type="github">
+<mxfile modified="2022-11-01T07:15:42.236Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="jMXPExvqV1sLvLATiJxM" version="20.5.1" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="2208" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -13,14 +13,14 @@
         <mxCell id="d2M2NSSrohAP7j92AUZB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.016;entryY=0.564;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d2M2NSSrohAP7j92AUZB-2" target="d2M2NSSrohAP7j92AUZB-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="265.5" y="148" />
+              <mxPoint x="266" y="128" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="d2M2NSSrohAP7j92AUZB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d2M2NSSrohAP7j92AUZB-2" target="d2M2NSSrohAP7j92AUZB-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="265.5" y="325" />
+              <mxPoint x="266" y="345" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -30,26 +30,55 @@
         <mxCell id="d2M2NSSrohAP7j92AUZB-2" value="Update Data Domain Project" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" vertex="1" parent="1">
           <mxGeometry x="240.5" y="210" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="d2M2NSSrohAP7j92AUZB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.044;entryY=0.516;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d2M2NSSrohAP7j92AUZB-4" target="d2M2NSSrohAP7j92AUZB-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="625" y="66" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d2M2NSSrohAP7j92AUZB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.072;entryY=0.636;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d2M2NSSrohAP7j92AUZB-4" target="d2M2NSSrohAP7j92AUZB-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="625" y="190" />
+              <mxPoint x="726" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="d2M2NSSrohAP7j92AUZB-4" value="Data Domain&lt;br&gt;Project A" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_DevOps.svg;" vertex="1" parent="1">
-          <mxGeometry x="585" y="120" width="50" height="50" as="geometry" />
+          <mxGeometry x="600" y="100" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="d2M2NSSrohAP7j92AUZB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d2M2NSSrohAP7j92AUZB-5" target="d2M2NSSrohAP7j92AUZB-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="625" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d2M2NSSrohAP7j92AUZB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d2M2NSSrohAP7j92AUZB-5" target="d2M2NSSrohAP7j92AUZB-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="625" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="d2M2NSSrohAP7j92AUZB-5" value="Data Domain&lt;br&gt;Project B" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_DevOps.svg;" vertex="1" parent="1">
-          <mxGeometry x="585" y="300" width="50" height="50" as="geometry" />
+          <mxGeometry x="600" y="320" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d2M2NSSrohAP7j92AUZB-8" value="Repository DD A" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Repos.svg;" vertex="1" parent="1">
-          <mxGeometry x="730" y="70" width="45" height="50" as="geometry" />
+          <mxGeometry x="730" y="40" width="45" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d2M2NSSrohAP7j92AUZB-9" value="Pipeline DD A" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" vertex="1" parent="1">
-          <mxGeometry x="730" y="160" width="50" height="50" as="geometry" />
+          <mxGeometry x="730" y="153" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d2M2NSSrohAP7j92AUZB-10" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.user_permissions;fillColor=#0078D7;" vertex="1" parent="1">
-          <mxGeometry x="470" y="210" width="47" height="50" as="geometry" />
+          <mxGeometry x="860" y="210" width="47" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d2M2NSSrohAP7j92AUZB-11" value="Repository DD B" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Repos.svg;" vertex="1" parent="1">
           <mxGeometry x="730" y="270" width="45" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d2M2NSSrohAP7j92AUZB-12" value="Pipeline DD B" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" vertex="1" parent="1">
-          <mxGeometry x="730" y="360" width="50" height="50" as="geometry" />
+          <mxGeometry x="727.5" y="389" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
